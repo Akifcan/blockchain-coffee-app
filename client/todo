@@ -2,6 +2,5 @@ coffee machine[x]
 list drinks[x]
 basket[x]
 pay[x]
-contract[]
---------------------
+contract[x]
 responsive[x]
