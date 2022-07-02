@@ -34,10 +34,10 @@ const orderListEl = document.querySelector('.order-list')
 const orderButtonEl = document.querySelector('.order-button')
 
 // This local from hardhat
-// const storeWalletAddress = '0xbAC9AE3d4Fcd323722bb88a06272247bC00418b6'
+const storeWalletAddress = '0xbAC9AE3d4Fcd323722bb88a06272247bC00418b6'
 
 //rinkeby
-const storeWalletAddress = '0xbAC9AE3d4Fcd323722bb88a06272247bC00418b6'
+// const storeWalletAddress = '0xbAC9AE3d4Fcd323722bb88a06272247bC00418b6'
 
 const basket = []
 
